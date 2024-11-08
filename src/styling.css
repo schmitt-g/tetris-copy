@@ -1,0 +1,19 @@
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background: blanchedalmond;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+div {
+    background: black;
+}
+canvas.game {
+    background: black;
+    border: 10px solid white;
+}
